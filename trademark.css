@@ -1,0 +1,9 @@
+@charset "utf-8";
+.display-1 {
+	 position: static;
+    font-family: Impact;
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	
+}
